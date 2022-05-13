@@ -1,7 +1,5 @@
 ![logo](assets/cover/logo.png)
 
-# DiDiBoom
-
 ## 拿来就用的博客
 
 基于 docsify 构建的博客就这样出现了！
